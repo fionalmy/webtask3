@@ -15,7 +15,7 @@
 ![alt next](http://ww4.sinaimg.cn/mw690/4aa33e58tw1e56papud3fj20fe06m0sw动态建模-评论类)
 ![alt next](http://ww2.sinaimg.cn/mw690/4aa33e58tw1e56pas4ub1j20fe0erabc静态建模)
 ![alt next](http://ww2.sinaimg.cn/mw690/4aa33e58tw1e56pasglajj20hi0iumz1超文本访问模型)
-![alt next](http://ww2.sinaimg.cn/mw690/4aa33e58tw1e56paszilvj20fe0a874m模型3WEB)
+![alt next](http://ww2.sinaimg.cn/mw690/4aa33e58tw1e56paszilvj20fe0a874m模型)
 ![alt next](http://ww4.sinaimg.cn/mw690/4aa33e58tw1e56patmdnlj20fe07j3yp添加标签)
 ![alt next](http://ww2.sinaimg.cn/mw690/4aa33e58tw1e56pavyhlqj20fe0ah3yv发表微博)
 ![alt next](http://ww2.sinaimg.cn/mw690/4aa33e58tw1e56paw9p9mj20c907fq31查找)
